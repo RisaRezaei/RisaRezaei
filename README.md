@@ -17,8 +17,14 @@ Environmental engineer working where **satellite remote sensing**, **hydrology**
 | [**gee-cropland-dynamics**](https://github.com/RisaRezaei/gee-cropland-dynamics) | 30 m cropland gain / loss / stable maps (2003–2019) with area statistics | Earth Engine JS |
 | [**gee-station-temperature-timeseries**](https://github.com/RisaRezaei/gee-station-temperature-timeseries) | Daily ERA5-Land temperature (mean, min, max) at many stations as one tidy CSV | Earth Engine JS |
 | [**gee-elevation-cross-section**](https://github.com/RisaRezaei/gee-elevation-cross-section) | Terrain profiles every *n* metres along any line from SRTM or Copernicus DEM | Earth Engine JS |
+| [**gee-wetland-water-rf**](https://github.com/RisaRezaei/gee-wetland-water-rf) | Landsat Random Forest mapping of open water in lakes and wetlands, with accuracy assessment and a water-area series since 1984 | Earth Engine JS |
+| [**gee-air-quality-toolkit**](https://github.com/RisaRezaei/gee-air-quality-toolkit) | Monthly NO₂, SO₂, CO, O₃, HCHO (Sentinel-5P) and AOD (MODIS) for a region and its stations in one tidy CSV | Earth Engine JS |
+| [**gee-lake-chlorophyll**](https://github.com/RisaRezaei/gee-lake-chlorophyll) | Sentinel-2 NDCI chlorophyll-a and algal-bloom monitoring for lakes, compared with MODIS-Aqua | Earth Engine JS |
+| [**gee-basin-hydroclimate**](https://github.com/RisaRezaei/gee-basin-hydroclimate) | Monthly precipitation, ET, temperature and GRACE water storage averaged over any river basin | Earth Engine JS |
+| [**gee-landsat-timelapse**](https://github.com/RisaRezaei/gee-landsat-timelapse) | Animated 40-year Landsat timelapse (GIF) of any lake or wetland with the shoreline traced | Earth Engine JS |
 | [**era5-pressure-level-downloader**](https://github.com/RisaRezaei/era5-pressure-level-downloader) | Command-line downloader for ERA5 monthly pressure-level data from the Climate Data Store | Python |
 | [**raster-point-sampler**](https://github.com/RisaRezaei/raster-point-sampler) | Sample a stack of rasters at points into one Excel / CSV / GeoPackage table | Python |
+| [**gee-water-resources-course**](https://github.com/RisaRezaei/gee-water-resources-course) | Six-lesson Earth Engine course for hydrology students: water frequency, downscaling, trend tests | Earth Engine JS · teaching |
 
 ### 🛠️ Toolbox
 
